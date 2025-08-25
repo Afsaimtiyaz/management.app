@@ -1,0 +1,5 @@
+streamlit
+pinecone-client
+sentence-transformers
+twilio
+pandas
